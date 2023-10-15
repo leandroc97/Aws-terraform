@@ -7,10 +7,10 @@ This repo contains a small range of projects that I have built on AWS while lear
 
 Repo Timeline:
 
--- 10-13-2023
+-- 10-13-2023 -
 Added a new mini project that creates subnets for each AZ on a specific region defined by the user input
 
--- 10-15-2023 Added a folder for the project SubnetPerAZ
+-- 10-15-2023 - Added a folder for the project SubnetPerAZ
 
 
 
